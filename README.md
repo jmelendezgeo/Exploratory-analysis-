@@ -10,7 +10,7 @@ In a exploratory analysis I like to include the following aspects:
 * Data Visualization
 * Conclusions and storytelling from data
 
-This notebooks can be loaded in a Google Colab environment (just click the link or button). In colab you can use a Jupyter Notebook on Google servers with libraries and good hardware specifications without installations.
+The notebooks can be loaded in a Google Colab environment (just click the link or button). In colab you can use a Jupyter Notebook on Google servers with libraries and good hardware specifications without installations.
 
 The datasets will be available in another of my repositories to facilitate loading. The sources of the data are specified with their respective links and mentions.
 Thanks for your data.
